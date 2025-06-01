@@ -47,7 +47,7 @@
   "devDependencies": {
     "@sinclair/typebox": "^0.34.33",
     "@toridoriv/eslint-config": "github:toridoriv/eslint-config",
-    "@types/node": "^22.15.21",
+    "@types/node": "^22.15.29",
     "@typescript-eslint/eslint-plugin": "^8.32.0",
     "eslint": "^9.26.0",
     "prettier": "^3.5.3",
